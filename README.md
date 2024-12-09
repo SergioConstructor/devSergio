@@ -1,7 +1,7 @@
 # devSergio
 
 ## Olá! Eu sou o Sérgio Luiz 🖐️
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/S.jrluiz)
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
